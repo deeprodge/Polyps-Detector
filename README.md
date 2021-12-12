@@ -21,6 +21,7 @@
   <p align="center">
     A SSD Detector that detects Polyps which is also optimized using TensorRT
     <br/>
+    <small>Made with ❤️ by Deep Rodge</small><br>
     <!-- <a href="https://github.com/deeprodge/Polyps-Detector"><strong>Explore the docs »</strong></a>
     <br />
     <br />
